@@ -1,0 +1,13 @@
+{
+  "name": "my-openai-project",
+  "version": "1.0.0",
+  "description": "OpenAI testing project",
+  "main": "api/test-openai.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
